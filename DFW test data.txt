@@ -1,0 +1,58 @@
+3:36 AM
+5X860
+Phoenix (PHX)
+UPS
+B763 (N376UP)
+
+Departed 3:37 AM
+4:00 AM
+A81746
+Lubbock (LBB)
+Ameriflight
+B190 (N31705)
+
+Departed 4:38 AM
+4:40 AM
+KE277
+Guadalajara (GDL)
+Korean Air Cargo
+B77L (HL8005)
+
+Departed 4:49 AM
+5:00 AM
+
+AA1042
+Miami (MIA)
+American Airlines
+B38M (N324RA)
+
+Departed 5:51 AM
+5:00 AM
+
+AA1091
+Charlotte (CLT)
+American Airlines
+A321 (N133AN)
+
+Departed 5:38 AM
+5:03 AM
+AA2029
+Washington (DCA)
+American Airlines
+B38M (N336RU)
+
+Unknown
+5:10 AM
+NK1967
+Fort Lauderdale (FLL)
+Spirit Airlines
+A320 (N620NK)
+
+Departed 5:25 AM
+5:15 AM
+OZ242
+Seattle (SEA)
+Asiana Airlines
+74F
+
+Estimated dep. 5:15 AM

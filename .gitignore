@@ -1,0 +1,17 @@
+# Ignore everything by default
+**
+
+# Allow Python files in all folders
+!**/*.py
+
+# Allow text files in all folders
+!**/*.txt
+
+# Allow CSV files in all folders
+!**/*.csv
+
+# Allow this gitignore file to be tracked
+!.gitignore
+
+# Exclude .pkl files
+*.pkl

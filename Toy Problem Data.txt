@@ -1,0 +1,399 @@
+03:31 AM
+AM1207
+FLL
+American Airlines
+B739 (N40559)
+
+Unknown
+
+04:25 AM
+UN2993
+DTW
+United Airlines
+B739 (N37559)
+
+Departed 04:53 AM
+
+04:20 AM
+UP1221
+DFW
+UPS
+B763 (N43562)
+
+Unknown
+
+04:19 AM
+SO891
+PHX
+Southwest Airlines
+B737 (N14222)
+
+Unknown
+
+04:20 AM
+AL3494
+FLL
+Alaska Airlines
+B739 (N58609)
+
+Unknown
+
+03:50 AM
+KO6897
+DFW
+Korean Air Cargo
+B77L (N14708)
+
+Departed 03:53 AM
+
+04:28 AM
+FR1244
+DCA
+Frontier Airlines
+A321N (N33417)
+
+Departed 04:56 AM
+
+04:01 AM
+SO5670
+FLL
+Southwest Airlines
+B737 (N32854)
+
+Departed 04:13 AM
+
+04:23 AM
+LU3577
+DFW
+Lufthansa Cargo
+B77L (N49428)
+
+Unknown
+
+03:50 AM
+KO1399
+GDL
+Korean Air Cargo
+B77L (N81132)
+
+Unknown
+
+04:10 AM
+DE1470
+DCA
+Delta Airlines
+A220 (N46378)
+
+Departed 04:24 AM
+
+03:33 AM
+SO3252
+MSP
+Southwest Airlines
+B737 (N15868)
+
+Estimated dep. 03:33 AM
+
+04:07 AM
+UN6298
+CLT
+United Airlines
+B739 (N49133)
+
+Departed 04:23 AM
+
+03:53 AM
+UP2110
+MIA
+UPS
+B763 (N31407)
+
+Unknown
+
+03:41 AM
+AM2668
+ATL
+Ameriflight
+B190 (N39384)
+
+Departed 04:06 AM
+
+03:43 AM
+DE3346
+FLL
+Delta Airlines
+A220 (N39916)
+
+Unknown
+
+04:27 AM
+FE4544
+SFO
+FedEx
+MD11 (N31567)
+
+Departed 04:41 AM
+
+04:20 AM
+FE9939
+DFW
+FedEx
+MD11 (N37189)
+
+Departed 04:39 AM
+
+04:13 AM
+UP2581
+DEN
+UPS
+B763 (N12733)
+
+Unknown
+
+04:21 AM
+DE2623
+DTW
+Delta Airlines
+A220 (N70930)
+
+Departed 04:51 AM
+
+03:49 AM
+LU1230
+DFW
+Lufthansa Cargo
+B77L (N34074)
+
+Departed 04:19 AM
+
+04:24 AM
+AL4165
+MSP
+Alaska Airlines
+B739 (N36328)
+
+Unknown
+
+04:14 AM
+AM4142
+LAS
+Ameriflight
+B190 (N64737)
+
+Departed 04:20 AM
+
+04:01 AM
+AM9646
+JFK
+American Airlines
+B38M (N66228)
+
+Departed 04:03 AM
+
+04:29 AM
+DE9507
+LAX
+Delta Airlines
+A220 (N85150)
+
+Unknown
+
+04:23 AM
+UN3666
+LAS
+United Airlines
+B739 (N76115)
+
+Unknown
+
+04:27 AM
+UP2648
+DEN
+UPS
+B763 (N87007)
+
+Estimated dep. 04:27 AM
+
+03:33 AM
+UN2024
+LAX
+United Airlines
+B739 (N75242)
+
+Estimated dep. 03:33 AM
+
+04:20 AM
+UN3881
+DCA
+United Airlines
+B739 (N70112)
+
+Estimated dep. 04:20 AM
+
+04:08 AM
+UN2691
+LAS
+United Airlines
+B739 (N26398)
+
+Unknown
+
+03:59 AM
+AM8825
+SFO
+American Airlines
+B38M (N71500)
+
+Estimated dep. 03:59 AM
+
+03:48 AM
+AM4420
+DTW
+American Airlines
+B38M (N27254)
+
+Departed 03:55 AM
+
+04:05 AM
+FR4577
+DFW
+Frontier Airlines
+A321N (N63297)
+
+Departed 04:27 AM
+
+04:01 AM
+FR6006
+SEA
+Frontier Airlines
+A321N (N91107)
+
+Departed 04:17 AM
+
+03:42 AM
+KO2532
+LBB
+Korean Air Cargo
+B77L (N20588)
+
+Departed 04:02 AM
+
+04:26 AM
+AL7349
+IAH
+Alaska Airlines
+B739 (N74056)
+
+Departed 04:28 AM
+
+03:34 AM
+SO1128
+FLL
+Southwest Airlines
+B737 (N36290)
+
+Departed 03:39 AM
+
+04:27 AM
+LU4194
+SFO
+Lufthansa Cargo
+B77L (N28388)
+
+Unknown
+
+04:26 AM
+LU505
+IAH
+Lufthansa Cargo
+B77L (N70726)
+
+Estimated dep. 04:26 AM
+
+04:17 AM
+DE9882
+GDL
+Delta Airlines
+A220 (N38949)
+
+Departed 04:27 AM
+
+04:24 AM
+UN434
+CLT
+United Airlines
+B739 (N54086)
+
+Estimated dep. 04:24 AM
+
+04:09 AM
+SP6754
+LAS
+Spirit Airlines
+A320 (N55945)
+
+Departed 04:16 AM
+
+03:42 AM
+UP9783
+DCA
+UPS
+B763 (N33238)
+
+Unknown
+
+04:30 AM
+AM2105
+SEA
+Ameriflight
+B190 (N18983)
+
+Departed 04:45 AM
+
+03:40 AM
+UN8163
+DTW
+United Airlines
+B739 (N25513)
+
+Departed 04:08 AM
+
+04:28 AM
+AM7665
+BOS
+Ameriflight
+B190 (N48383)
+
+Unknown
+
+04:28 AM
+SP1178
+DTW
+Spirit Airlines
+A320 (N17935)
+
+Estimated dep. 04:28 AM
+
+04:27 AM
+SP488
+BOS
+Spirit Airlines
+A320 (N95823)
+
+Unknown
+
+04:14 AM
+AS3939
+DCA
+Asiana Airlines
+74F (N28148)
+
+Departed 04:39 AM
+
+04:24 AM
+AL4508
+DEN
+Alaska Airlines
+B739 (N56039)
+
+Unknown
